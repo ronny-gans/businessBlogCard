@@ -20,14 +20,14 @@ businessBlogCard/
 |
 +-- resources          # resources for webpage
 +-- index.html         # Main HTML file
-+-- styles.css         # CSS file for styling
++-- style.css         # CSS file for styling
 \-- README.md          # Documentation (this file)
 ```
 
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com//simpleFeatureSection.git 
+   git clone https://github.com//businessBlogCard.git 
 2. Open the `index.html` file in your favorite browser.
 
 ## 📂 Folder Structure
